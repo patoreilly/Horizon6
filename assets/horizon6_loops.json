@@ -1,0 +1,88 @@
+{
+  "resources": [
+    "./assets/horizon6_loops.ogg",
+    "./assets/horizon6_loops.mp3"
+  ],
+  "spritemap": {
+    "loop0": {
+      "start": 0.0,
+      "end": 7.274,
+      "loop": true
+    },
+    "loop1": {
+      "start": 8.011,
+      "end": 15.272,
+      "loop": false
+    },
+    "loop2": {
+      "start": 16.011,
+      "end": 26.035,
+      "loop": false
+    },
+    "loop3": {
+      "start": 26.5,
+      "end": 41.083,
+      "loop": false
+    },
+    "loop4": {
+      "start": 41.5,
+      "end": 53.484,
+      "loop": false
+    },
+    "loop5": {
+      "start": 54.0,
+      "end": 60.436,
+      "loop": false
+    },
+    "loop6": {
+      "start": 61.0,
+      "end": 65.474,
+      "loop": false
+    },
+    "loop7": {
+      "start": 66.0,
+      "end": 70.455,
+      "loop": false
+    },
+    "loop8": {
+      "start": 71.0,
+      "end": 78.24,
+      "loop": false
+    },
+    "loop9": {
+      "start": 79.0,
+      "end": 86.738,
+      "loop": false
+    },
+    "loop10": {
+      "start": 87.0,
+      "end": 94.737,
+      "loop": false
+    },
+    "loop11": {
+      "start": 95.0,
+      "end": 103.271,
+      "loop": false
+    },
+    "loop12": {
+      "start": 103.5,
+      "end": 111.7,
+      "loop": false
+    },
+    "loop13": {
+      "start": 112.0,
+      "end": 120.169,
+      "loop": false
+    },
+    "loop14": {
+      "start": 120.5,
+      "end": 128.644,
+      "loop": false
+    },
+    "loop15": {
+      "start": 129.0,
+      "end": 137.143,
+      "loop": false
+    }
+  }
+}
